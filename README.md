@@ -20,7 +20,7 @@ just follow the steps
 
 ------------- Put this to the 'Target' directory -------------
 
-"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\ "name" \Documents\random\randodmom.jar"
+"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\ "name" \Documents\random\randomdom.jar"
 
 ------------- "Start in" -------------
 
