@@ -14,8 +14,12 @@ just follow the steps
 5. Create a folder named "Celestial" anywhere in the Documents directory, and move the file "celestial-3.2.1-SNAPSHOT-fatjar.jar" into that folder.
 ![Screenshot](screenshot/screenshot6.png)
 6. Create a shortcut, sel "celestial-3.2.1-SNAPSHOT-fatjar.jar", Next and rename for this shortcut if u want then Finish.
+
+
 ![Screenshot](screenshot/sc7.png)
 ![Screenshot](screenshot/sc8.png)
+
+
 7. Open Properties of this shortcut and follow me
 
 ------------- Put this to the 'Target' directory -------------
