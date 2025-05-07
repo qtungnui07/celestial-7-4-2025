@@ -19,10 +19,12 @@ just follow the steps
 7. Open Properties of this shortcut and follow me
 
 ------------- Put this to the 'Target' directory -------------
-"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\<username>\Documents\Celestial\celestial-3.2.1-SNAPSHOT-fatjar.jar"
+
+"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\ "name" \Documents\Celestial\celestial-3.2.1-SNAPSHOT-fatjar.jar"
 
 ------------- "Start in" -------------
-C:\Users\<username>\Documents\Celestial
+
+C:\Users\ "username" \Documents\Celestial
 
 
 ![Screenshot](screenshot/sc8.png)
