@@ -12,13 +12,7 @@ just follow the steps
 4. Test java on cmd to make sure it works
 ![Screenshot](screenshot/screenshot5.png)
 5. Create a folder named "random" anywhere in the Documents directory, and move the file "randomdom.jar" into that folder.
-![Screenshot](screenshot/screenshot6.png)
 6. Create a shortcut, sel "randomdom.jar", Next and rename for this shortcut if u want then Finish.
-
-
-![Screenshot](screenshot/sc7.png)
-![Screenshot](screenshot/sc8.png)
-
 
 7. Open Properties of this shortcut and follow me
 
@@ -30,16 +24,9 @@ just follow the steps
 
 C:\Users\ "username" \Documents\random
 
-
-![Screenshot](screenshot/sc8.png)
-
 so done, u can launch it normally :3 
-
-![Screenshot](screenshot/g1.png)
-
 
 ah
 u can add "LP.jar" to "JA" like this
-![Screenshot](screenshot/g2.png)
 
 have fun!
