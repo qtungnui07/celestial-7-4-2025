@@ -1,3 +1,5 @@
+dms me @qtitpc07 if u need help
+
 my friend showed me how to install it and its worked
 so
 ok
