@@ -11,9 +11,9 @@ just follow the steps
 ![Screenshot](screenshot/screenshot4.png)
 4. Test java on cmd to make sure it works
 ![Screenshot](screenshot/screenshot5.png)
-5. Create a folder named "Celestial" anywhere in the Documents directory, and move the file "celestial-3.2.1-SNAPSHOT-fatjar.jar" into that folder.
+5. Create a folder named "random" anywhere in the Documents directory, and move the file "randomdom.jar" into that folder.
 ![Screenshot](screenshot/screenshot6.png)
-6. Create a shortcut, sel "celestial-3.2.1-SNAPSHOT-fatjar.jar", Next and rename for this shortcut if u want then Finish.
+6. Create a shortcut, sel "randomdom.jar", Next and rename for this shortcut if u want then Finish.
 
 
 ![Screenshot](screenshot/sc7.png)
@@ -24,11 +24,11 @@ just follow the steps
 
 ------------- Put this to the 'Target' directory -------------
 
-"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\ "name" \Documents\Celestial\celestial-3.2.1-SNAPSHOT-fatjar.jar"
+"C:\Program Files\Java\graalvm-jdk-21.0.6+8.1\bin\javaw.exe" -jar "C:\Users\ "name" \Documents\random\randodmom.jar"
 
 ------------- "Start in" -------------
 
-C:\Users\ "username" \Documents\Celestial
+C:\Users\ "username" \Documents\random
 
 
 ![Screenshot](screenshot/sc8.png)
@@ -39,7 +39,7 @@ so done, u can launch it normally :3
 
 
 ah
-u can add "LunarPerformance.jar" to "JavaAgents" like this
+u can add "LP.jar" to "JA" like this
 ![Screenshot](screenshot/g2.png)
 
 have fun!
